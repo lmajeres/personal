@@ -1,0 +1,33 @@
+genome Anc0
+twoBitPath Anc0/Anc0.2bit
+trackDb Anc0/trackDb.txt
+groups groups.txt
+htmlPath Anc0/description.html
+description Anc0
+organism Anc0
+orderKey 4800
+scientificName Anc0
+defaultPos Anc0refChr0:1-1000
+
+genome Broiler
+twoBitPath Broiler/Broiler.2bit
+trackDb Broiler/trackDb.txt
+groups groups.txt
+htmlPath Broiler/description.html
+description Broiler
+organism Broiler
+orderKey 4800
+scientificName Broiler
+defaultPos 74999202-76000869_Gallusgallus_chromosome:1-1000
+
+genome Layer
+twoBitPath Layer/Layer.2bit
+trackDb Layer/trackDb.txt
+groups groups.txt
+htmlPath Layer/description.html
+description Layer
+organism Layer
+orderKey 4800
+scientificName Layer
+defaultPos 75000178-76000626_Gallusgallus_chromosome:1-1000
+
